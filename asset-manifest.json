@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_youtube/static/css/main.6c5f0dcb.css",
+    "main.js": "/react_youtube/static/js/main.05fac3a2.js",
+    "index.html": "/react_youtube/index.html",
+    "main.6c5f0dcb.css.map": "/react_youtube/static/css/main.6c5f0dcb.css.map",
+    "main.05fac3a2.js.map": "/react_youtube/static/js/main.05fac3a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c5f0dcb.css",
+    "static/js/main.05fac3a2.js"
+  ]
+}
