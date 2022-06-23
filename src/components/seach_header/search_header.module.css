@@ -1,0 +1,45 @@
+
+
+.header {
+  display: flex;
+  height: 4rem;
+  padding: 0.8rem 1rem;
+  background: black;
+  color: white;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  margin-right: 1em;
+}
+
+.img {
+  width: 40px;
+  margin-right: 0.5rem;
+}
+
+.input {
+  flex-basis: 100%;
+  font-size: 1.2rem;
+  outline: none;
+}
+
+.button {
+  cursor: pointer;
+  background-color: lightgray;
+  border-radius: 0.2rem;
+  height: 90%;
+  align-self: center;
+  margin-left: 0.2rem;
+  transition: all 0.2s ease-in;
+}
+
+.button:hover {
+  background-color: white;
+  transform: scale(1.05);
+}
+
+.buttonImg {
+  width: 20px;
+}

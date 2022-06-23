@@ -16,3 +16,14 @@ code {
 * {
   box-sizing: border-box;
 }
+
+button {
+  border: none;
+  background: none;
+}
+
+
+#root {
+  display: flex;
+  justify-content: center;
+}
