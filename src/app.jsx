@@ -31,7 +31,7 @@ function App({youtube}) {
     youtube
       .mostPopular()
       .then(videos => setVideos(videos));
-  }, []);
+  }, [youtube]);
   // []안적으면 state나 prop이 업데이트 될때마다 반복 호출됨
 
 
